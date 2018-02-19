@@ -41,3 +41,4 @@
 path='D:\zhu\log'
 for root,dirs,files in os.walk(path,False):
     print("Root = ", root, "dirs = ", dirs, "files = ", files)
+print("hello")
