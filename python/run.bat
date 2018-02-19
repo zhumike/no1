@@ -1,0 +1,2 @@
+python yonghushuru.py
+pause

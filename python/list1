@@ -1,0 +1,25 @@
+bi = ['apple','orange','peach','bananw']
+# print(bicycle[0])
+# print(bicycle[0].title())
+# print(bicycle[-1])
+# message = "My first bicycle was a " + bicycle[0].title() + "."
+# print(message)
+# t1 = len(bicycle)
+# print(t1)
+# for asd in bicycle:
+# 	print(asd)
+# for asd in bicycle:
+# 	message = "My first bicycle was a " + asd.title() + "."
+# 	print(message)
+# bai = []
+# bai.append('plane')
+# bai.append('car')
+# bai.append('train')
+# print(bai)
+
+# del bai[2]
+# print(bai)
+laston = bi.pop()
+print("My first bicycle was a " + laston + ".")
+
+
