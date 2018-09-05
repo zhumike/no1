@@ -1,0 +1,2 @@
+python shuju.py
+pause

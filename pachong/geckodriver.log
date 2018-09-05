@@ -1,0 +1,46 @@
+1526308663887	geckodriver	INFO	geckodriver 0.20.0
+1526308663910	geckodriver	INFO	Listening on 127.0.0.1:53286
+1526308666950	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--disable-gpu" "-profile" "C:\\Users\\11974\\AppData\\Local\\Temp\\rust_mozprofile.b7uMsNM1MScC"
+*** You are running in headless mode.
+1526308668788	Marionette	INFO	Enabled via --marionette
+1526308672200	Marionette	INFO	Listening on port 53313
+1526308672382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?08e66699f107989d25f8d5d5df242407, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?08e66699f107989d25f8d5d5df242407, line 94: unreachable code after return statement
+1526308939018	geckodriver	INFO	geckodriver 0.20.0
+1526308939042	geckodriver	INFO	Listening on 127.0.0.1:55100
+1526308942066	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\11974\\AppData\\Local\\Temp\\rust_mozprofile.IzZQKOFfYCuT"
+1526308943478	Marionette	INFO	Enabled via --marionette
+1526308946716	Marionette	INFO	Listening on port 55125
+1526308947334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?08e66699f107989d25f8d5d5df242407, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?08e66699f107989d25f8d5d5df242407, line 94: unreachable code after return statement
+[Child 13012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18780, Chrome_ChildThrea[Child 4928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4928, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536065336285	geckodriver	INFO	geckodriver 0.20.0
+1536065336322	geckodriver	INFO	Listening on 127.0.0.1:54690
+1536065339499	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\11974\\AppData\\Local\\Temp\\rust_mozprofile.JJZEhhUsT1Af"
+1536065342012	Marionette	INFO	Enabled via --marionette
+1536065346426	Marionette	INFO	Listening on port 54698
+1536065347150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_f8786daf4b59aa160425e94955e1888f.js?f8786daf4b59aa160425e94955e1888f, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_f8786daf4b59aa160425e94955e1888f.js?f8786daf4b59aa160425e94955e1888f, line 94: unreachable code after return statement
+[Parent 28484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common[/ipc_channel_win.cc, line 346
+Child 23428, Ch[Chirld 4980, Chromome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu[Child 25688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s?f8786daf4b59aa160425e94955e1888f, line 94: unreachable code after return statement
+[Child 6268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6268, Chrome_Chi[Child 2308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2308, Chrome_ChildThread] WARNING: pipe erro[Child 3364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3364, Chrome_ChildThread] WARNING: *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
